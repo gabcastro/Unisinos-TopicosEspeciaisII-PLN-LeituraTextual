@@ -18,15 +18,17 @@ Uso de Processamento de Linguagem Natural (PLN) para análises de frases positiv
 - Necessária prévia instalação dos recursos acima;
 - Acessar a pasta via linha de comando, onde foi realizada o download do projeto atual;
 - Executar a ferramenta `jupyter` via linha de comando:
-`jupyter notebook`
+
+``jupyter notebook``
+
 - O software é aberto para utilização no navegador padrão;
-- O arquivo principal do projeto é `PLN_LeituraTextual`, onde contém os processamentos e testes realizados;
+- O arquivo principal do projeto é `scr/PLN_LeituraTextual`, onde contém os processamentos e testes realizados;
 
 ## Trabalho realizado por:
-- Franciele Fagundes
-- Gabriel Castro
+- [Franciele Fagundes](https://github.com/francielenf)
+- [Gabriel Castro](https://github.com/gabcastro)
 - Matheus Hans
-- Savanna Denega
+- [Savanna Denega](https://github.com/savannadenega)
 
 ## Materiais consultados
-[NLTK Lib](http://www.nltk.org/howto/portuguese_en.html)
+- [NLTK Lib](http://www.nltk.org/howto/portuguese_en.html)
