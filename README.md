@@ -3,6 +3,7 @@
 Uso de Processamento de Linguagem Natural (PLN) para análises de frases positivas e negativas, com o dataset de reviews em hotéis da Europa.
 
 ## Rescursos utilizados
+- [anaconda](https://www.anaconda.com/distribution/)
 - [python3](https://www.python.org/downloads/)
 - [jupyter](https://jupyter.org/install)
 - numpy: `pip install numpy`
@@ -15,7 +16,7 @@ Uso de Processamento de Linguagem Natural (PLN) para análises de frases positiv
 - IPython: `pip install IPython`
 
 ## Como executar
-- Necessária prévia instalação dos recursos acima;
+- Necessária prévia instalação dos recursos acima (para Windows basta o uso da ferramenta Anaconda com Jupyter);
 - Acessar a pasta via linha de comando, onde foi realizada o download do projeto atual;
 - Executar a ferramenta `jupyter` via linha de comando:
 
@@ -27,7 +28,7 @@ Uso de Processamento de Linguagem Natural (PLN) para análises de frases positiv
 ## Trabalho realizado por:
 - [Franciele Fagundes](https://github.com/francielenf)
 - [Gabriel Castro](https://github.com/gabcastro)
-- Matheus Hans
+- [Matheus Hans](https://github.com/matheushahn) 
 - [Savanna Denega](https://github.com/savannadenega)
 
 ## Materiais consultados
