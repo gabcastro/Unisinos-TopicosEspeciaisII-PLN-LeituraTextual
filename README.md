@@ -6,13 +6,9 @@ Uso de Processamento de Linguagem Natural (PLN) para análises de frases positiv
 - [anaconda](https://www.anaconda.com/distribution/)
 - [python3](https://www.python.org/downloads/)
 - [jupyter](https://jupyter.org/install)
-- numpy: `pip install numpy`
 - pandas: `pip install pandas`
 - ntlk: `pip install nltk`
-- matplotlib: `pip install matplotlib`
 - textblob: `pip install textblob`
-- scipy: `pip install scipy`
-- nltk: `pip install nltk`
 - IPython: `pip install IPython`
 
 ## Como executar
@@ -24,6 +20,8 @@ Uso de Processamento de Linguagem Natural (PLN) para análises de frases positiv
 
 - O software é aberto para utilização no navegador padrão;
 - O arquivo principal do projeto é `scr/PLN_LeituraTextual`, onde contém os processamentos e testes realizados;
+
+Caso em algum momento, durante a edição do arquivo, acontecer erro de importação da biblioteca `nltk` (após já ter feito o download de acordo com o item `Rescursos utilizados`), reinicie seu computador.
 
 ## Trabalho realizado por:
 - [Franciele Fagundes](https://github.com/francielenf)
