@@ -30,4 +30,8 @@ Caso em algum momento, durante a edição do arquivo, acontecer erro de importa�
 - [Savanna Denega](https://github.com/savannadenega)
 
 ## Materiais consultados
-- [NLTK Lib](http://www.nltk.org/howto/portuguese_en.html)
+- [NLTK documentation](https://www.nltk.org)
+- [TextBlob: Simplified Text Processing](https://textblob.readthedocs.io/en/dev/)
+- [TextBlob Sentiment: Calculating Polarity and Subjectivity](https://planspace.org/20150607-textblob_sentiment/)
+- [Introducing TextBlob](https://towardsdatascience.com/having-fun-with-textblob-7e9eed783d3f)
+- [API Reference](https://textblob.readthedocs.io/en/dev/api_reference.html#textblob.blob.Sentence)
